@@ -6,8 +6,8 @@ body:
       value: "Please read [our contribution guide](https://github.com/userfrosting/.github/blob/main/.github/CONTRIBUTING.md) and our chapter on [common problems](https://learn.userfrosting.com/troubleshooting/common-problems) before submitting bug reports."
   - type: input
     attributes:
-      label: UserFrosting Version
-      description: Provide the UserFrosting version that you are using.
+      label: UserFrosting or package Version
+      description: Provide the UserFrosting or package version that you are using.
       placeholder: 5.x.x
     validations:
       required: true
