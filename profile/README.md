@@ -11,13 +11,14 @@ UserFrosting is a web framework for PHP. Like other web frameworks, it offers a 
 
 Unlike other PHP frameworks, it's a fully-functioning user management application, right out of the box. And, it's fully extendable so that you can easily create the custom features you need.
 
-UserFrosting features : 
-- A complete sign-in System
-- Built-in user management
-- Powerful role-based access control
-- Complete modular system 
-- Modern Specs and high code quality
+UserFrosting seeks to balance modern programming principles, like DRY and MVC, with a shallow learning curve for new developers. Our mission is to:
 
+- Create a fully-functioning user management script that can be set up in just a few minutes
+- Make it easy for users to quickly adapt the code for their needs
+- Introduce novice developers to best practices such as separation of concerns and DRY programming
+- Introduce novice developers to modern constructs such as front-end controllers, RESTful URLs, namespacing, and object-oriented modeling
+- Build on existing, widely used server- and client-side components
+- Clean, consistent, and well-documented code
 
 ## Documentation
 
