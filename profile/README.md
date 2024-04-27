@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://www.userfrosting.com" target="_blank">
-    <img src="./logo.png" width="300" />
+    <img src="https://raw.githubusercontent.com/userfrosting/.github/main/profile/logo.png" width="300" />
   </a>
 </p>
 
