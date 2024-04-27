@@ -36,7 +36,7 @@ You should also try testing your code in a local development environment, to sep
 
 We welcome your technical expertise! But first, please join us in [chat](https://chat.userfrosting.com) to discuss your proposed changes/fixes/enhancements before you get started. At least one member of our development team will usually be around.
 
-Please also be sure to read our [style guidelines](../STYLE-GUIDE.md).
+Please also be sure to read our [style guidelines](./STYLE-GUIDE.md).
 
 ### Branches
 
@@ -98,7 +98,7 @@ Additionally, the `learn` repository can have `feature-*` or `develop-*` branch 
 
 ## Automatically fixing coding style with PHP-CS-Fixer
 
-[PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) can be used to automatically fix PHP code styling. UserFrosting provides a project specific configuration file ([`.php_cs`](.php_cs)) with a set of rules reflecting our [style guidelines](../STYLE-GUIDE.md). This tool should be used before submitting any code change to assure the style guidelines are met. Every sprinkles will also be parsed by the fixer.
+[PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) can be used to automatically fix PHP code styling. UserFrosting provides a project specific configuration file ([`.php_cs`](.php_cs)) with a set of rules reflecting our [style guidelines](./STYLE-GUIDE.md). This tool should be used before submitting any code change to assure the style guidelines are met. Every sprinkles will also be parsed by the fixer.
 
 PHP-CS-Fixer is automatically loaded by Composer and can be used from the UserFrosting root directory :
 
