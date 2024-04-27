@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Feature request
+    url: https://github.com/orgs/userfrosting/discussions
+    about: 'For ideas or feature requests, start a new discussion'
+  - name: First line support
+    url: https://chat.userfrosting.com/home
+    about: 'If you have a question or need help using UserFrosting, ask the chat first'
+  - name: Support Questions & Other
+    url: https://github.com/orgs/userfrosting/discussions
+    about: 'Alternatively, support and general question can also be answered in discussions'
+  - name: Documentation issue
+    url: https://github.com/userfrosting/learn
+    about: For documentation issues, open an issue or a pull request over at the userfrosting/learn repository
