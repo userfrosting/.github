@@ -175,7 +175,7 @@ You can also find help on the [community Chat](https://chat.userfrosting.com/hom
 [ExtendUser-PHPStan-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/extend-user/PHPStan.yml?branch=5.0&label=PHPStan
 [ExtendUser-PHPStan]: https://github.com/userfrosting/extend-user/actions/workflows/PHPStan.yml
 
-## Comunity Spinkles
+## Community Sprinkles
 
 | Branch | Version | Build | Coverage | Style | PHPStan |
 | ------ |:-------:|:-----:|:--------:|:-----:|:-------:|
