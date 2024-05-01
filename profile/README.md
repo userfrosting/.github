@@ -119,8 +119,10 @@ You can also find help on the [community Chat](https://chat.userfrosting.com/hom
 
 | Branch | Build | Coverage | Style | PHPStan |
 | ------ |:-----:|:--------:|:-----:|:-------:|
-| [Pastries] | [![][Pastries-Build-img]][Pastries-Build] | [![][Pastries-Coverage-img]][Pastries-Coverage] | [![][Pastries-Style-img]][Pastries-Style] | [![][Pastries-PHPStan-img]][Pastries-PHPStan] |
-| [ExtendUser] | [![][ExtendUser-Build-img]][ExtendUser-Build] | [![][ExtendUser-Coverage-img]][ExtendUser-Coverage] | [![][ExtendUser-Style-img]][ExtendUser-Style] | [![][ExtendUser-PHPStan-img]][ExtendUser-PHPStan] |
+| [Pastries - Advanced tutorial][Pastries] | [![][Pastries-Build-img]][Pastries-Build] | [![][Pastries-Coverage-img]][Pastries-Coverage] | [![][Pastries-Style-img]][Pastries-Style] | [![][Pastries-PHPStan-img]][Pastries-PHPStan] |
+| [Extending the User model Recipe][ExtendUser] | [![][ExtendUser-Build-img]][ExtendUser-Build] | [![][ExtendUser-Coverage-img]][ExtendUser-Coverage] | [![][ExtendUser-Style-img]][ExtendUser-Style] | [![][ExtendUser-PHPStan-img]][ExtendUser-PHPStan] |
+| [Customizing the login page Recipe][CustomLogin] | [![][CustomLogin-Build-img]][CustomLogin-Build] | [![][CustomLogin-Coverage-img]][CustomLogin-Coverage] | [![][CustomLogin-Style-img]][CustomLogin-Style] | [![][CustomLogin-PHPStan-img]][CustomLogin-PHPStan] |
+| [Adding a 3rd party Javascript package Recipe][JsPackage] | [![][JsPackage-Build-img]][JsPackage-Build] | [![][JsPackage-Coverage-img]][JsPackage-Coverage] | [![][JsPackage-Style-img]][JsPackage-Style] | [![][JsPackage-PHPStan-img]][JsPackage-PHPStan] |
 | [Vue Demo][Demo] | [![][Demo-Build-img]][Demo-Build] | [![][Demo-Coverage-img]][Demo-Coverage] | [![][Demo-Style-img]][Demo-Style] | [![][Demo-PHPStan-img]][Demo-PHPStan] |
 | [Pink Cupcake][PinkCupcake] | [![][PinkCupcake-Build-img]][PinkCupcake-Build] | <!-- [![][PinkCupcake-Coverage-img]][PinkCupcake-Coverage] --> | <!-- [![][PinkCupcake-Style-img]][PinkCupcake-Style] --> | <!-- [![][PinkCupcake-PHPStan-img]][PinkCupcake-PHPStan] --> |
 
@@ -175,6 +177,32 @@ You can also find help on the [community Chat](https://chat.userfrosting.com/hom
 [ExtendUser-Style]: https://github.styleci.io/repos/81640261?branch=5.0
 [ExtendUser-PHPStan-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/extend-user/PHPStan.yml?branch=5.0&label=PHPStan
 [ExtendUser-PHPStan]: https://github.com/userfrosting/extend-user/actions/workflows/PHPStan.yml
+
+<!-- Links - recipe-custom-login -->
+[CustomLogin]: https://github.com/userfrosting/recipe-custom-login/tree/5.0
+<!-- [CustomLogin-Version-img]: https://img.shields.io/github/v/release/userfrosting/recipe-custom-login?include_prereleases -->
+<!-- [CustomLogin-Version]: https://github.com/userfrosting/recipe-custom-login/releases -->
+[CustomLogin-Build-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/recipe-custom-login/Build.yml?branch=5.0&logo=github
+[CustomLogin-Build]: https://github.com/userfrosting/recipe-custom-login/actions/workflows/Build.yml?query=workflow%3ABuild
+[CustomLogin-Coverage-img]: https://codecov.io/gh/userfrosting/recipe-custom-login/branch/5.0/graph/badge.svg
+[CustomLogin-Coverage]: https://app.codecov.io/gh/userfrosting/recipe-custom-login/tree/5.0
+[CustomLogin-Style-img]: https://github.styleci.io/repos/81640261/shield?branch=5.0&style=flat
+[CustomLogin-Style]: https://github.styleci.io/repos/81640261?branch=5.0
+[CustomLogin-PHPStan-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/recipe-custom-login/PHPStan.yml?branch=5.0&label=PHPStan
+[CustomLogin-PHPStan]: https://github.com/userfrosting/recipe-custom-login/actions/workflows/PHPStan.yml
+
+<!-- Links - recipe-js-package -->
+[JsPackage]: https://github.com/userfrosting/recipe-js-package/tree/5.0
+<!-- [JsPackage-Version-img]: https://img.shields.io/github/v/release/userfrosting/recipe-js-package?include_prereleases -->
+<!-- [JsPackage-Version]: https://github.com/userfrosting/recipe-js-package/releases -->
+[JsPackage-Build-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/recipe-js-package/Build.yml?branch=5.0&logo=github
+[JsPackage-Build]: https://github.com/userfrosting/recipe-js-package/actions/workflows/Build.yml?query=workflow%3ABuild
+[JsPackage-Coverage-img]: https://codecov.io/gh/userfrosting/recipe-js-package/branch/5.0/graph/badge.svg
+[JsPackage-Coverage]: https://app.codecov.io/gh/userfrosting/recipe-js-package/tree/5.0
+[JsPackage-Style-img]: https://github.styleci.io/repos/81640261/shield?branch=5.0&style=flat
+[JsPackage-Style]: https://github.styleci.io/repos/81640261?branch=5.0
+[JsPackage-PHPStan-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/recipe-js-package/PHPStan.yml?branch=5.0&label=PHPStan
+[JsPackage-PHPStan]: https://github.com/userfrosting/recipe-js-package/actions/workflows/PHPStan.yml
 
 ## Community Sprinkles
 
