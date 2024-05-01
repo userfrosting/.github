@@ -120,9 +120,9 @@ You can also find help on the [community Chat](https://chat.userfrosting.com/hom
 | Branch | Build | Coverage | Style | PHPStan |
 | ------ |:-----:|:--------:|:-----:|:-------:|
 | [Pastries - Advanced tutorial][Pastries] | [![][Pastries-Build-img]][Pastries-Build] | [![][Pastries-Coverage-img]][Pastries-Coverage] | [![][Pastries-Style-img]][Pastries-Style] | [![][Pastries-PHPStan-img]][Pastries-PHPStan] |
-| [Extending the User model Recipe][ExtendUser] | [![][ExtendUser-Build-img]][ExtendUser-Build] | [![][ExtendUser-Coverage-img]][ExtendUser-Coverage] | [![][ExtendUser-Style-img]][ExtendUser-Style] | [![][ExtendUser-PHPStan-img]][ExtendUser-PHPStan] |
-| [Customizing the login page Recipe][CustomLogin] | [![][CustomLogin-Build-img]][CustomLogin-Build] | [![][CustomLogin-Coverage-img]][CustomLogin-Coverage] | [![][CustomLogin-Style-img]][CustomLogin-Style] | [![][CustomLogin-PHPStan-img]][CustomLogin-PHPStan] |
-| [Adding a 3rd party Javascript package Recipe][JsPackage] | [![][JsPackage-Build-img]][JsPackage-Build] | [![][JsPackage-Coverage-img]][JsPackage-Coverage] | [![][JsPackage-Style-img]][JsPackage-Style] | [![][JsPackage-PHPStan-img]][JsPackage-PHPStan] |
+| [Extending the User Recipe][ExtendUser] | [![][ExtendUser-Build-img]][ExtendUser-Build] | [![][ExtendUser-Coverage-img]][ExtendUser-Coverage] | [![][ExtendUser-Style-img]][ExtendUser-Style] | [![][ExtendUser-PHPStan-img]][ExtendUser-PHPStan] |
+| [Custom login page Recipe][CustomLogin] | [![][CustomLogin-Build-img]][CustomLogin-Build] | [![][CustomLogin-Coverage-img]][CustomLogin-Coverage] | [![][CustomLogin-Style-img]][CustomLogin-Style] | [![][CustomLogin-PHPStan-img]][CustomLogin-PHPStan] |
+| [Adding a 3rd party JS Recipe][JsPackage] | [![][JsPackage-Build-img]][JsPackage-Build] | [![][JsPackage-Coverage-img]][JsPackage-Coverage] | [![][JsPackage-Style-img]][JsPackage-Style] | [![][JsPackage-PHPStan-img]][JsPackage-PHPStan] |
 | [Vue Demo][Demo] | [![][Demo-Build-img]][Demo-Build] | [![][Demo-Coverage-img]][Demo-Coverage] | [![][Demo-Style-img]][Demo-Style] | [![][Demo-PHPStan-img]][Demo-PHPStan] |
 | [Pink Cupcake][PinkCupcake] | [![][PinkCupcake-Build-img]][PinkCupcake-Build] | <!-- [![][PinkCupcake-Coverage-img]][PinkCupcake-Coverage] --> | <!-- [![][PinkCupcake-Style-img]][PinkCupcake-Style] --> | <!-- [![][PinkCupcake-PHPStan-img]][PinkCupcake-PHPStan] --> |
 
