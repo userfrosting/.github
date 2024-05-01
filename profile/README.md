@@ -31,7 +31,7 @@ You can also find help on the [community Chat](https://chat.userfrosting.com/hom
 
 | Branch | Version | Build | Coverage | Style | PHPStan |
 | ------ |:-------:|:-----:|:--------:|:-----:|:-------:|
-| [Skeleton] | [![][Skeleton-Version-img]][Skeleton-Version] | [![][Skeleton-Build-img]][Skeleton-Build] | [![][Skeleton-Coverage-img]][Skeleton-Coverage] | [![][Skeleton-Style-img]][Skeleton-Style] |  |
+| [Skeleton] | [![][Skeleton-Version-img]][Skeleton-Version] | [![][Skeleton-Build-img]][Skeleton-Build] | [![][Skeleton-Coverage-img]][Skeleton-Coverage] | [![][Skeleton-Style-img]][Skeleton-Style] | [![][Skeleton-PHPStan-img]][Skeleton-PHPStan] |
 | [Framework] | [![][Framework-Version-img]][Framework-Version] | [![][Framework-Build-img]][Framework-Build] | [![][Framework-Coverage-img]][Framework-Coverage] | [![][Framework-Style-img]][Framework-Style] | [![][Framework-PHPStan-img]][Framework-PHPStan] |
 | [Core] | [![][Core-Version-img]][Core-Version] | [![][Core-Build-img]][Core-Build] | [![][Core-Coverage-img]][Core-Coverage] | [![][Core-Style-img]][Core-Style] | [![][Core-PHPStan-img]][Core-PHPStan] |
 | [Account] | [![][Account-Version-img]][Account-Version] | [![][Account-Build-img]][Account-Build] | [![][Account-Coverage-img]][Account-Coverage] | [![][Account-Style-img]][Account-Style] | [![][Account-PHPStan-img]][Account-PHPStan] |
