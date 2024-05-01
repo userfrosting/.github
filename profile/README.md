@@ -26,7 +26,8 @@ UserFrosting provides extensive and thorough [documentation](https://learn.userf
 
 You can also find help on the [community Chat](https://chat.userfrosting.com/home) where you can get answers fast and learn to be a great PHP developer.
 
-## UserFrosting 5.1
+## Repositories
+### UserFrosting 5.1
 
 | Branch | Version | Build | Coverage | Style | PHPStan |
 | ------ |:-------:|:-----:|:--------:|:-----:|:-------:|
@@ -47,8 +48,8 @@ You can also find help on the [community Chat](https://chat.userfrosting.com/hom
 [Skeleton-Coverage]: https://app.codecov.io/gh/userfrosting/UserFrosting/branch/5.1
 [Skeleton-Style-img]: https://github.styleci.io/repos/18148206/shield?branch=5.1&style=flat
 [Skeleton-Style]: https://github.styleci.io/repos/18148206
-<!-- [Skeleton-PHPStan-img]:  -->
-<!-- [Skeleton-PHPStan]:  -->
+[Skeleton-PHPStan-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/userfrosting/PHPStan.yml?branch=5.1&label=PHPStan
+[Skeleton-PHPStan]: https://github.com/userfrosting/userfrosting/actions/workflows/PHPStan.yml
 
 <!-- Links - Framework -->
 [Framework]: https://github.com/userfrosting/framework/tree/5.1
@@ -115,7 +116,7 @@ You can also find help on the [community Chat](https://chat.userfrosting.com/hom
 [AdminLTE-PHPStan-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/theme-adminlte/PHPStan.yml?branch=5.1&label=PHPStan
 [AdminLTE-PHPStan]: https://github.com/userfrosting/theme-adminlte/actions/workflows/PHPStan.yml
 
-## Additional Repos
+### Additional Repos
 
 | Branch | Build | Coverage | Style | PHPStan |
 | ------ |:-----:|:--------:|:-----:|:-------:|
@@ -123,34 +124,6 @@ You can also find help on the [community Chat](https://chat.userfrosting.com/hom
 | [Extending the User Recipe][ExtendUser] | [![][ExtendUser-Build-img]][ExtendUser-Build] | [![][ExtendUser-Coverage-img]][ExtendUser-Coverage] | [![][ExtendUser-Style-img]][ExtendUser-Style] | [![][ExtendUser-PHPStan-img]][ExtendUser-PHPStan] |
 | [Custom login page Recipe][CustomLogin] | [![][CustomLogin-Build-img]][CustomLogin-Build] | [![][CustomLogin-Coverage-img]][CustomLogin-Coverage] | [![][CustomLogin-Style-img]][CustomLogin-Style] | [![][CustomLogin-PHPStan-img]][CustomLogin-PHPStan] |
 | [Adding a 3rd party JS Recipe][JsPackage] | [![][JsPackage-Build-img]][JsPackage-Build] | [![][JsPackage-Coverage-img]][JsPackage-Coverage] | [![][JsPackage-Style-img]][JsPackage-Style] | [![][JsPackage-PHPStan-img]][JsPackage-PHPStan] |
-| [Vue Demo][Demo] | [![][Demo-Build-img]][Demo-Build] | [![][Demo-Coverage-img]][Demo-Coverage] | [![][Demo-Style-img]][Demo-Style] | [![][Demo-PHPStan-img]][Demo-PHPStan] |
-| [Pink Cupcake][PinkCupcake] | [![][PinkCupcake-Build-img]][PinkCupcake-Build] | <!-- [![][PinkCupcake-Coverage-img]][PinkCupcake-Coverage] --> | <!-- [![][PinkCupcake-Style-img]][PinkCupcake-Style] --> | <!-- [![][PinkCupcake-PHPStan-img]][PinkCupcake-PHPStan] --> |
-
-<!-- Links - PinkCupcake -->
-[PinkCupcake]: https://github.com/userfrosting/theme-pink-cupcake/tree/main
-<!-- [PinkCupcake-Version-img]: https://img.shields.io/github/v/release/userfrosting/theme-pink-cupcake?include_prereleases -->
-<!-- [PinkCupcake-Version]: https://github.com/userfrosting/theme-pink-cupcake/releases -->
-[PinkCupcake-Build-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/theme-pink-cupcake/Build.yml?branch=main&logo=github
-[PinkCupcake-Build]: https://github.com/userfrosting/theme-pink-cupcake/actions?query=workflow%3ABuild
-<!-- [PinkCupcake-Coverage-img]: https://codecov.io/gh/userfrosting/theme-pink-cupcake/branch/main/graph/badge.svg -->
-<!-- [PinkCupcake-Coverage]: https://app.codecov.io/gh/userfrosting/theme-pink-cupcake/branch/main -->
-<!-- [PinkCupcake-Style-img]: https://github.styleci.io/repos/689461212/shield?branch=main&style=flat -->
-<!-- [PinkCupcake-Style]: https://github.styleci.io/repos/689461212 -->
-<!-- [PinkCupcake-PHPStan-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/theme-pink-cupcake/PHPStan.yml?branch=main&label=PHPStan -->
-<!-- [PinkCupcake-PHPStan]: https://github.com/userfrosting/theme-pink-cupcake/actions/workflows/PHPStan.yml -->
-
-<!-- Links - Demo -->
-[Demo]: https://github.com/userfrosting/demo-vue/tree/main
-<!-- [Demo-Version-img]: https://img.shields.io/github/v/release/userfrosting/demo-vue?include_prereleases -->
-<!-- [Demo-Version]: https://github.com/userfrosting/demo-vue/releases -->
-[Demo-Build-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/demo-vue/Build.yml?branch=main&logo=github
-[Demo-Build]: https://github.com/userfrosting/demo-vue/actions?query=workflow%3ABuild
-[Demo-Coverage-img]: https://codecov.io/gh/userfrosting/demo-vue/branch/main/graph/badge.svg
-[Demo-Coverage]: https://app.codecov.io/gh/userfrosting/demo-vue/branch/main
-[Demo-Style-img]: https://github.styleci.io/repos/689461212/shield?branch=main&style=flat
-[Demo-Style]: https://github.styleci.io/repos/689461212
-[Demo-PHPStan-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/demo-vue/PHPStan.yml?branch=main&label=PHPStan
-[Demo-PHPStan]: https://github.com/userfrosting/demo-vue/actions/workflows/PHPStan.yml
 
 <!-- Links - Pastries -->
 [Pastries]: https://github.com/userfrosting/pastries/tree/5.0
@@ -186,8 +159,8 @@ You can also find help on the [community Chat](https://chat.userfrosting.com/hom
 [CustomLogin-Build]: https://github.com/userfrosting/recipe-custom-login/actions/workflows/Build.yml?query=workflow%3ABuild
 [CustomLogin-Coverage-img]: https://codecov.io/gh/userfrosting/recipe-custom-login/branch/5.0/graph/badge.svg
 [CustomLogin-Coverage]: https://app.codecov.io/gh/userfrosting/recipe-custom-login/tree/5.0
-[CustomLogin-Style-img]: https://github.styleci.io/repos/81640261/shield?branch=5.0&style=flat
-[CustomLogin-Style]: https://github.styleci.io/repos/81640261?branch=5.0
+[CustomLogin-Style-img]: https://github.styleci.io/repos/793283029/shield?branch=5.0&style=flat
+[CustomLogin-Style]: https://github.styleci.io/repos/793283029?branch=5.0
 [CustomLogin-PHPStan-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/recipe-custom-login/PHPStan.yml?branch=5.0&label=PHPStan
 [CustomLogin-PHPStan]: https://github.com/userfrosting/recipe-custom-login/actions/workflows/PHPStan.yml
 
@@ -199,12 +172,44 @@ You can also find help on the [community Chat](https://chat.userfrosting.com/hom
 [JsPackage-Build]: https://github.com/userfrosting/recipe-js-package/actions/workflows/Build.yml?query=workflow%3ABuild
 [JsPackage-Coverage-img]: https://codecov.io/gh/userfrosting/recipe-js-package/branch/5.0/graph/badge.svg
 [JsPackage-Coverage]: https://app.codecov.io/gh/userfrosting/recipe-js-package/tree/5.0
-[JsPackage-Style-img]: https://github.styleci.io/repos/81640261/shield?branch=5.0&style=flat
-[JsPackage-Style]: https://github.styleci.io/repos/81640261?branch=5.0
+[JsPackage-Style-img]: https://github.styleci.io/repos/793848449/shield?branch=5.0&style=flat
+[JsPackage-Style]: https://github.styleci.io/repos/793848449?branch=5.0
 [JsPackage-PHPStan-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/recipe-js-package/PHPStan.yml?branch=5.0&label=PHPStan
 [JsPackage-PHPStan]: https://github.com/userfrosting/recipe-js-package/actions/workflows/PHPStan.yml
 
-## Community Sprinkles
+### UserFrosting 6 Work In Progress
+| Branch | Build | Coverage | Style | PHPStan |
+| ------ |:-----:|:--------:|:-----:|:-------:|
+| [Vue Demo][Demo] | [![][Demo-Build-img]][Demo-Build] | [![][Demo-Coverage-img]][Demo-Coverage] | [![][Demo-Style-img]][Demo-Style] | [![][Demo-PHPStan-img]][Demo-PHPStan] |
+| [Pink Cupcake][PinkCupcake] | [![][PinkCupcake-Build-img]][PinkCupcake-Build] | <!-- [![][PinkCupcake-Coverage-img]][PinkCupcake-Coverage] --> | <!-- [![][PinkCupcake-Style-img]][PinkCupcake-Style] --> | <!-- [![][PinkCupcake-PHPStan-img]][PinkCupcake-PHPStan] --> |
+
+<!-- Links - PinkCupcake -->
+[PinkCupcake]: https://github.com/userfrosting/theme-pink-cupcake/tree/main
+<!-- [PinkCupcake-Version-img]: https://img.shields.io/github/v/release/userfrosting/theme-pink-cupcake?include_prereleases -->
+<!-- [PinkCupcake-Version]: https://github.com/userfrosting/theme-pink-cupcake/releases -->
+[PinkCupcake-Build-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/theme-pink-cupcake/Build.yml?branch=main&logo=github
+[PinkCupcake-Build]: https://github.com/userfrosting/theme-pink-cupcake/actions?query=workflow%3ABuild
+<!-- [PinkCupcake-Coverage-img]: https://codecov.io/gh/userfrosting/theme-pink-cupcake/branch/main/graph/badge.svg -->
+<!-- [PinkCupcake-Coverage]: https://app.codecov.io/gh/userfrosting/theme-pink-cupcake/branch/main -->
+<!-- [PinkCupcake-Style-img]: https://github.styleci.io/repos/689461212/shield?branch=main&style=flat -->
+<!-- [PinkCupcake-Style]: https://github.styleci.io/repos/689461212 -->
+<!-- [PinkCupcake-PHPStan-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/theme-pink-cupcake/PHPStan.yml?branch=main&label=PHPStan -->
+<!-- [PinkCupcake-PHPStan]: https://github.com/userfrosting/theme-pink-cupcake/actions/workflows/PHPStan.yml -->
+
+<!-- Links - Demo -->
+[Demo]: https://github.com/userfrosting/demo-vue/tree/main
+<!-- [Demo-Version-img]: https://img.shields.io/github/v/release/userfrosting/demo-vue?include_prereleases -->
+<!-- [Demo-Version]: https://github.com/userfrosting/demo-vue/releases -->
+[Demo-Build-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/demo-vue/Build.yml?branch=main&logo=github
+[Demo-Build]: https://github.com/userfrosting/demo-vue/actions?query=workflow%3ABuild
+[Demo-Coverage-img]: https://codecov.io/gh/userfrosting/demo-vue/branch/main/graph/badge.svg
+[Demo-Coverage]: https://app.codecov.io/gh/userfrosting/demo-vue/branch/main
+[Demo-Style-img]: https://github.styleci.io/repos/689461212/shield?branch=main&style=flat
+[Demo-Style]: https://github.styleci.io/repos/689461212
+[Demo-PHPStan-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/demo-vue/PHPStan.yml?branch=main&label=PHPStan
+[Demo-PHPStan]: https://github.com/userfrosting/demo-vue/actions/workflows/PHPStan.yml
+
+### Community Sprinkles
 
 | Branch | Version | Build | Coverage | Style | PHPStan |
 | ------ |:-------:|:-----:|:--------:|:-----:|:-------:|
