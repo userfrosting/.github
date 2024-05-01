@@ -209,7 +209,7 @@ You can also find help on the [community Chat](https://chat.userfrosting.com/hom
 [Demo-PHPStan-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/demo-vue/PHPStan.yml?branch=main&label=PHPStan
 [Demo-PHPStan]: https://github.com/userfrosting/demo-vue/actions/workflows/PHPStan.yml
 
-### Community Sprinkles
+### Featured Community Sprinkles
 
 | Branch | Version | Build | Coverage | Style | PHPStan |
 | ------ |:-------:|:-----:|:--------:|:-----:|:-------:|
