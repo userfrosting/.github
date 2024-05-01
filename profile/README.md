@@ -116,7 +116,7 @@ You can also find help on the [community Chat](https://chat.userfrosting.com/hom
 [AdminLTE-PHPStan-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/theme-adminlte/PHPStan.yml?branch=5.1&label=PHPStan
 [AdminLTE-PHPStan]: https://github.com/userfrosting/theme-adminlte/actions/workflows/PHPStan.yml
 
-### Additional Repos
+### Recipes, Examples and Tutorials
 
 | Branch | Build | Coverage | Style | PHPStan |
 | ------ |:-----:|:--------:|:-----:|:-------:|
