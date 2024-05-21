@@ -182,6 +182,20 @@ You can also find help on the [community Chat](https://chat.userfrosting.com/hom
 | ------ |:-----:|:--------:|:-----:|:-------:|
 | [Vue Demo][Demo] | [![][Demo-Build-img]][Demo-Build] | [![][Demo-Coverage-img]][Demo-Coverage] | [![][Demo-Style-img]][Demo-Style] | [![][Demo-PHPStan-img]][Demo-PHPStan] |
 | [Pink Cupcake][PinkCupcake] | [![][PinkCupcake-Build-img]][PinkCupcake-Build] | <!-- [![][PinkCupcake-Coverage-img]][PinkCupcake-Coverage] --> | <!-- [![][PinkCupcake-Style-img]][PinkCupcake-Style] --> | <!-- [![][PinkCupcake-PHPStan-img]][PinkCupcake-PHPStan] --> |
+| [Pink Cupcake Example][PinkCupcake-Example] | <!-- [![][PinkCupcake-Example-Build-img]][PinkCupcake-Example-Build] --> | <!-- [![][PinkCupcake-Example-Coverage-img]][PinkCupcake-Example-Coverage] --> | <!-- [![][PinkCupcake-Example-Style-img]][PinkCupcake-Example-Style] --> | <!-- [![][PinkCupcake-Example-PHPStan-img]][PinkCupcake-Example-PHPStan] --> |
+
+<!-- Links - PinkCupcake-Example -->
+[PinkCupcake-Example]: https://github.com/userfrosting/theme-pink-cupcake-example/tree/main
+<!-- [PinkCupcake-Example-Version-img]: https://img.shields.io/github/v/release/userfrosting/theme-pink-cupcake-example?include_prereleases -->
+<!-- [PinkCupcake-Example-Version]: https://github.com/userfrosting/theme-pink-cupcake-example/releases -->
+<!-- [PinkCupcake-Example-Build-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/theme-pink-cupcake-example/Build.yml?branch=main&logo=github -->
+<!-- [PinkCupcake-Example-Build]: https://github.com/userfrosting/theme-pink-cupcake-example/actions?query=workflow%3ABuild -->
+<!-- [PinkCupcake-Example-Coverage-img]: https://codecov.io/gh/userfrosting/theme-pink-cupcake-example/branch/main/graph/badge.svg -->
+<!-- [PinkCupcake-Example-Coverage]: https://app.codecov.io/gh/userfrosting/theme-pink-cupcake-example/branch/main -->
+<!-- [PinkCupcake-Example-Style-img]: https://github.styleci.io/repos/689461212/shield?branch=main&style=flat -->
+<!-- [PinkCupcake-Example-Style]: https://github.styleci.io/repos/689461212 -->
+<!-- [PinkCupcake-Example-PHPStan-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/theme-pink-cupcake-example/PHPStan.yml?branch=main&label=PHPStan -->
+<!-- [PinkCupcake-Example-PHPStan]: https://github.com/userfrosting/theme-pink-cupcake-example/actions/workflows/PHPStan.yml -->
 
 <!-- Links - PinkCupcake -->
 [PinkCupcake]: https://github.com/userfrosting/theme-pink-cupcake/tree/main
