@@ -6,6 +6,13 @@ body:
       value: "Please read [our contribution guide](https://github.com/userfrosting/.github/blob/main/.github/CONTRIBUTING.md) and our chapter on [common problems](https://learn.userfrosting.com/troubleshooting/common-problems) before submitting bug reports."
   - type: input
     attributes:
+      label: Affected sprinkle or package
+      description: Specify the report apply to which UserFrosting sprinkle or package. Separate each by a comma if it applies to multiple sprinkle/package.
+      placeholder: userfrosting/userfrosting
+    validations:
+      required: true
+  - type: input
+    attributes:
       label: UserFrosting or package Version
       description: Provide the UserFrosting or package version that you are using.
       placeholder: 5.x.x
@@ -14,7 +21,8 @@ body:
   - type: textarea
     attributes:
       label: Debug Data
-      description: Run `php bakery debug` and paste the result here
+      description: Run `php bakery debug` and paste the result here.
+      render: bash
     validations:
       required: true
   - type: input
