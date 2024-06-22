@@ -35,8 +35,8 @@ You can also find help on the [community Chat](https://chat.userfrosting.com/hom
 | [Framework] | [![][Framework-Version-img]][Framework-Version] | [![][Framework-Build-img]][Framework-Build] | [![][Framework-Coverage-img]][Framework-Coverage] | [![][Framework-Style-img]][Framework-Style] | [![][Framework-PHPStan-img]][Framework-PHPStan] |
 | [Core] | [![][Core-Version-img]][Core-Version] | [![][Core-Build-img]][Core-Build] | [![][Core-Coverage-img]][Core-Coverage] | [![][Core-Style-img]][Core-Style] | [![][Core-PHPStan-img]][Core-PHPStan] |
 | [Account] | [![][Account-Version-img]][Account-Version] | [![][Account-Build-img]][Account-Build] | [![][Account-Coverage-img]][Account-Coverage] | [![][Account-Style-img]][Account-Style] | [![][Account-PHPStan-img]][Account-PHPStan] |
-| [Admin] | [![][Admin-Version-img]][Admin-Version] | [![][Admin-Build-img]][Admin-Build] | [![][Admin-Coverage-img]][Admin-Coverage] | [![][Admin-Style-img]][Admin-Style] | [![][Admin-PHPStan-img]][Admin-PHPStan] |
-| [AdminLTE] | [![][AdminLTE-Version-img]][AdminLTE-Version] | [![][AdminLTE-Build-img]][AdminLTE-Build] | [![][AdminLTE-Coverage-img]][AdminLTE-Coverage] | [![][AdminLTE-Style-img]][AdminLTE-Style] | [![][AdminLTE-PHPStan-img]][AdminLTE-PHPStan] |
+| [Admin] | [![][Admin-Version-img]][Admin-Version] [![][Admin-npm-img]][Admin-npm] | [![][Admin-Build-img]][Admin-Build] | [![][Admin-Coverage-img]][Admin-Coverage] | [![][Admin-Style-img]][Admin-Style] | [![][Admin-PHPStan-img]][Admin-PHPStan] |
+| [AdminLTE] | [![][AdminLTE-Version-img]][AdminLTE-Version] [![][AdminLTE-npm-img]][AdminLTE-npm] | [![][AdminLTE-Build-img]][AdminLTE-Build] | [![][AdminLTE-Coverage-img]][AdminLTE-Coverage] | [![][AdminLTE-Style-img]][AdminLTE-Style] | [![][AdminLTE-PHPStan-img]][AdminLTE-PHPStan] |
 
 <!-- Links - Skeleton -->
 [Skeleton]: https://github.com/userfrosting/UserFrosting/tree/5.1
@@ -94,6 +94,8 @@ You can also find help on the [community Chat](https://chat.userfrosting.com/hom
 [Admin]: https://github.com/userfrosting/sprinkle-admin/tree/5.1
 [Admin-Version-img]: https://img.shields.io/github/v/release/userfrosting/sprinkle-admin?include_prereleases
 [Admin-Version]: https://github.com/userfrosting/sprinkle-admin/releases
+[Admin-npm]: https://www.npmjs.com/package/@userfrosting/sprinkle-admin
+[Admin-npm-img]: https://img.shields.io/npm/v/%40userfrosting%2Fsprinkle-admin
 [Admin-Build-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/sprinkle-admin/Build.yml?branch=5.1&logo=github
 [Admin-Build]: https://github.com/userfrosting/sprinkle-admin/actions?query=workflow%3ABuild
 [Admin-Coverage-img]: https://codecov.io/gh/userfrosting/sprinkle-admin/branch/5.1/graph/badge.svg
@@ -107,6 +109,8 @@ You can also find help on the [community Chat](https://chat.userfrosting.com/hom
 [AdminLTE]: https://github.com/userfrosting/theme-adminlte/tree/5.1
 [AdminLTE-Version-img]: https://img.shields.io/github/v/release/userfrosting/theme-adminlte?include_prereleases
 [AdminLTE-Version]: https://github.com/userfrosting/theme-adminlte/releases
+[AdminLTE-npm]: https://www.npmjs.com/package/@userfrosting/theme-adminlte
+[AdminLTE-npm-img]: https://img.shields.io/npm/v/%40userfrosting%2Ftheme-adminlte
 [AdminLTE-Build-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/theme-adminlte/Build.yml?branch=5.1&logo=github
 [AdminLTE-Build]: https://github.com/userfrosting/theme-adminlte/actions?query=workflow%3ABuild
 [AdminLTE-Coverage-img]: https://codecov.io/gh/userfrosting/theme-adminlte/branch/5.1/graph/badge.svg
@@ -178,11 +182,11 @@ You can also find help on the [community Chat](https://chat.userfrosting.com/hom
 [JsPackage-PHPStan]: https://github.com/userfrosting/recipe-js-package/actions/workflows/PHPStan.yml
 
 ### UserFrosting 6 Work In Progress
-| Branch | Build | Coverage | Style | PHPStan |
-| ------ |:-----:|:--------:|:-----:|:-------:|
-| [Vue Demo][Demo] | [![][Demo-Build-img]][Demo-Build] | [![][Demo-Coverage-img]][Demo-Coverage] | [![][Demo-Style-img]][Demo-Style] | [![][Demo-PHPStan-img]][Demo-PHPStan] |
-| [Pink Cupcake][PinkCupcake] | [![][PinkCupcake-Build-img]][PinkCupcake-Build] | <!-- [![][PinkCupcake-Coverage-img]][PinkCupcake-Coverage] --> | <!-- [![][PinkCupcake-Style-img]][PinkCupcake-Style] --> | <!-- [![][PinkCupcake-PHPStan-img]][PinkCupcake-PHPStan] --> |
-| [Pink Cupcake Example][PinkCupcake-Example] | <!-- [![][PinkCupcake-Example-Build-img]][PinkCupcake-Example-Build] --> | <!-- [![][PinkCupcake-Example-Coverage-img]][PinkCupcake-Example-Coverage] --> | <!-- [![][PinkCupcake-Example-Style-img]][PinkCupcake-Example-Style] --> | <!-- [![][PinkCupcake-Example-PHPStan-img]][PinkCupcake-Example-PHPStan] --> |
+| Branch | Version | Build | Coverage | Style | PHPStan |
+| ------ |:-------:|:-----:|:--------:|:-----:|:-------:|
+| [Vue Demo][Demo] | | [![][Demo-Build-img]][Demo-Build] | [![][Demo-Coverage-img]][Demo-Coverage] | [![][Demo-Style-img]][Demo-Style] | [![][Demo-PHPStan-img]][Demo-PHPStan] |
+| [Pink Cupcake][PinkCupcake] | [![][PinkCupcake-npm-img]][PinkCupcake-npm] | [![][PinkCupcake-Build-img]][PinkCupcake-Build] | <!-- [![][PinkCupcake-Coverage-img]][PinkCupcake-Coverage] --> | <!-- [![][PinkCupcake-Style-img]][PinkCupcake-Style] --> | <!-- [![][PinkCupcake-PHPStan-img]][PinkCupcake-PHPStan] --> |
+| [Pink Cupcake Example][PinkCupcake-Example] | | <!-- [![][PinkCupcake-Example-Build-img]][PinkCupcake-Example-Build] --> | <!-- [![][PinkCupcake-Example-Coverage-img]][PinkCupcake-Example-Coverage] --> | <!-- [![][PinkCupcake-Example-Style-img]][PinkCupcake-Example-Style] --> | <!-- [![][PinkCupcake-Example-PHPStan-img]][PinkCupcake-Example-PHPStan] --> |
 
 <!-- Links - PinkCupcake-Example -->
 [PinkCupcake-Example]: https://github.com/userfrosting/theme-pink-cupcake-example/tree/main
@@ -201,6 +205,8 @@ You can also find help on the [community Chat](https://chat.userfrosting.com/hom
 [PinkCupcake]: https://github.com/userfrosting/theme-pink-cupcake/tree/main
 <!-- [PinkCupcake-Version-img]: https://img.shields.io/github/v/release/userfrosting/theme-pink-cupcake?include_prereleases -->
 <!-- [PinkCupcake-Version]: https://github.com/userfrosting/theme-pink-cupcake/releases -->
+[PinkCupcake-npm]: https://www.npmjs.com/package/@userfrosting/theme-pink-cupcake
+[PinkCupcake-npm-img]: https://img.shields.io/npm/v/%40userfrosting%2Ftheme-pink-cupcake
 [PinkCupcake-Build-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/theme-pink-cupcake/Build.yml?branch=main&logo=github
 [PinkCupcake-Build]: https://github.com/userfrosting/theme-pink-cupcake/actions?query=workflow%3ABuild
 <!-- [PinkCupcake-Coverage-img]: https://codecov.io/gh/userfrosting/theme-pink-cupcake/branch/main/graph/badge.svg -->
