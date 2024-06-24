@@ -185,7 +185,7 @@ You can also find help on the [community Chat](https://chat.userfrosting.com/hom
 | Branch | Version | Build | Coverage | Style | PHPStan |
 | ------ |:-------:|:-----:|:--------:|:-----:|:-------:|
 | [Vue Demo][Demo] | | [![][Demo-Build-img]][Demo-Build] | [![][Demo-Coverage-img]][Demo-Coverage] | [![][Demo-Style-img]][Demo-Style] | [![][Demo-PHPStan-img]][Demo-PHPStan] |
-| [Pink Cupcake][PinkCupcake] | [![][PinkCupcake-npm-img]][PinkCupcake-npm] | [![][PinkCupcake-Build-img]][PinkCupcake-Build] | [![][PinkCupcake-Coverage-img]][PinkCupcake-Coverage] | <!-- [![][PinkCupcake-Style-img]][PinkCupcake-Style] --> | <!-- [![][PinkCupcake-PHPStan-img]][PinkCupcake-PHPStan] --> |
+| [Pink Cupcake][PinkCupcake] | [![][PinkCupcake-npm-img]][PinkCupcake-npm] | [![][PinkCupcake-Build-img]][PinkCupcake-Build] | [![][PinkCupcake-Coverage-img]][PinkCupcake-Coverage] | [![][PinkCupcake-Style-img]][PinkCupcake-Style] | <!-- [![][PinkCupcake-PHPStan-img]][PinkCupcake-PHPStan] --> |
 | [Pink Cupcake Example][PinkCupcake-Example] | | <!-- [![][PinkCupcake-Example-Build-img]][PinkCupcake-Example-Build] --> | <!-- [![][PinkCupcake-Example-Coverage-img]][PinkCupcake-Example-Coverage] --> | <!-- [![][PinkCupcake-Example-Style-img]][PinkCupcake-Example-Style] --> | <!-- [![][PinkCupcake-Example-PHPStan-img]][PinkCupcake-Example-PHPStan] --> |
 
 <!-- Links - PinkCupcake-Example -->
@@ -211,8 +211,8 @@ You can also find help on the [community Chat](https://chat.userfrosting.com/hom
 [PinkCupcake-Build]: https://github.com/userfrosting/theme-pink-cupcake/actions?query=workflow%3ABuild
 [PinkCupcake-Coverage-img]: https://codecov.io/gh/userfrosting/theme-pink-cupcake/branch/main/graph/badge.svg
 [PinkCupcake-Coverage]: https://app.codecov.io/gh/userfrosting/theme-pink-cupcake/branch/main
-<!-- [PinkCupcake-Style-img]: https://github.styleci.io/repos/689461212/shield?branch=main&style=flat -->
-<!-- [PinkCupcake-Style]: https://github.styleci.io/repos/689461212 -->
+[PinkCupcake-Style-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/theme-pink-cupcake/Style.yml?branch=main&logo=github&label=Style
+[PinkCupcake-Style]: https://github.com/userfrosting/theme-pink-cupcake/actions/workflows/Style.yml
 <!-- [PinkCupcake-PHPStan-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/theme-pink-cupcake/PHPStan.yml?branch=main&label=PHPStan -->
 <!-- [PinkCupcake-PHPStan]: https://github.com/userfrosting/theme-pink-cupcake/actions/workflows/PHPStan.yml -->
 
