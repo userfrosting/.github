@@ -187,6 +187,7 @@ You can also find help on the [community Chat](https://chat.userfrosting.com/hom
 | [Vue Demo][Demo] | | [![][Demo-Build-img]][Demo-Build] | [![][Demo-Coverage-img]][Demo-Coverage] | [![][Demo-Style-img]][Demo-Style] | [![][Demo-PHPStan-img]][Demo-PHPStan] |
 | [Pink Cupcake][PinkCupcake] | [![][PinkCupcake-npm-img]][PinkCupcake-npm] | [![][PinkCupcake-Build-img]][PinkCupcake-Build] | [![][PinkCupcake-Coverage-img]][PinkCupcake-Coverage] | [![][PinkCupcake-Style-img]][PinkCupcake-Style] | <!-- [![][PinkCupcake-PHPStan-img]][PinkCupcake-PHPStan] --> |
 | [Pink Cupcake Example][PinkCupcake-Example] | | <!-- [![][PinkCupcake-Example-Build-img]][PinkCupcake-Example-Build] --> | <!-- [![][PinkCupcake-Example-Coverage-img]][PinkCupcake-Example-Coverage] --> | <!-- [![][PinkCupcake-Example-Style-img]][PinkCupcake-Example-Style] --> | <!-- [![][PinkCupcake-Example-PHPStan-img]][PinkCupcake-Example-PHPStan] --> |
+| [Vite-PHP-Twig][Vite-PHP] | [![][Vite-PHP-Version-img]][Vite-PHP-Version] | [![][Vite-PHP-Build-img]][Vite-PHP-Build] | [![][Vite-PHP-Coverage-img]][Vite-PHP-Coverage] | [![][Vite-PHP-Style-img]][Vite-PHP-Style] | [![][Vite-PHP-PHPStan-img]][Vite-PHP-PHPStan] |
 
 <!-- Links - PinkCupcake-Example -->
 [PinkCupcake-Example]: https://github.com/userfrosting/theme-pink-cupcake-example/tree/main
@@ -228,6 +229,19 @@ You can also find help on the [community Chat](https://chat.userfrosting.com/hom
 [Demo-Style]: https://github.styleci.io/repos/689461212
 [Demo-PHPStan-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/demo-vue/PHPStan.yml?branch=main&label=PHPStan
 [Demo-PHPStan]: https://github.com/userfrosting/demo-vue/actions/workflows/PHPStan.yml
+
+<!-- Links - Vite-PHP -->
+[Vite-PHP]: https://github.com/userfrosting/vite-php-twig/tree/main
+[Vite-PHP-Version-img]: https://img.shields.io/github/v/release/userfrosting/vite-php-twig?include_prereleases
+[Vite-PHP-Version]: https://github.com/userfrosting/vite-php-twig/releases
+[Vite-PHP-Build-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/vite-php-twig/Build.yml?branch=main&logo=github
+[Vite-PHP-Build]: https://github.com/userfrosting/vite-php-twig/actions?query=workflow%3ABuild
+[Vite-PHP-Coverage-img]: https://codecov.io/gh/userfrosting/vite-php-twig/branch/main/graph/badge.svg
+[Vite-PHP-Coverage]: https://app.codecov.io/gh/userfrosting/vite-php-twig/branch/main
+[Vite-PHP-Style-img]: https://github.styleci.io/repos/821945045/shield?branch=main&style=flat
+[Vite-PHP-Style]: https://github.styleci.io/repos/821945045
+[Vite-PHP-PHPStan-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/vite-php-twig/PHPStan.yml?branch=main&label=PHPStan
+[Vite-PHP-PHPStan]: https://github.com/userfrosting/vite-php-twig/actions/workflows/PHPStan.yml
 
 ### Featured Community Sprinkles
 
