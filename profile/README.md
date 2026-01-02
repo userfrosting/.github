@@ -35,12 +35,12 @@ You can also find help on the [community Chat](https://chat.userfrosting.com/hom
 | [Framework] | [![][Framework-Version-img]][Framework-Version] | [![][Framework-Build-img]][Framework-Build] | [![][Framework-Coverage-img]][Framework-Coverage] | [![][Framework-Style-img]][Framework-Style] | [![][Framework-PHPStan-img]][Framework-PHPStan] |
 | [Core] | [![][Core-Version-img]][Core-Version] | [![][Core-Build-img]][Core-Build] | [![][Core-Coverage-img]][Core-Coverage] | [![][Core-Style-img]][Core-Style] | [![][Core-PHPStan-img]][Core-PHPStan] |
 | [Account] | [![][Account-Version-img]][Account-Version] | [![][Account-Build-img]][Account-Build] | [![][Account-Coverage-img]][Account-Coverage] | [![][Account-Style-img]][Account-Style] | [![][Account-PHPStan-img]][Account-PHPStan] |
-| [Admin] | [![][Admin-Version-img]][Admin-Version] [![][Admin-npm-img]][Admin-npm] | [![][Admin-Build-img]][Admin-Build] | [![][Admin-Coverage-img]][Admin-Coverage] | [![][Admin-Style-img]][Admin-Style] | [![][Admin-PHPStan-img]][Admin-PHPStan] |
+| [Admin] | [![][Admin-Version-img]][Admin-Version] | [![][Admin-Build-img]][Admin-Build] | [![][Admin-Coverage-img]][Admin-Coverage] | [![][Admin-Style-img]][Admin-Style] | [![][Admin-PHPStan-img]][Admin-PHPStan] |
 | [AdminLTE] | [![][AdminLTE-Version-img]][AdminLTE-Version] [![][AdminLTE-npm-img]][AdminLTE-npm] | [![][AdminLTE-Build-img]][AdminLTE-Build] | [![][AdminLTE-Coverage-img]][AdminLTE-Coverage] | [![][AdminLTE-Style-img]][AdminLTE-Style] | [![][AdminLTE-PHPStan-img]][AdminLTE-PHPStan] |
 
 <!-- Links - Skeleton -->
 [Skeleton]: https://github.com/userfrosting/UserFrosting/tree/5.1
-[Skeleton-Version-img]: https://img.shields.io/github/v/release/userfrosting/userfrosting?include_prereleases&sort=semver
+[Skeleton-Version-img]: https://img.shields.io/github/v/release/userfrosting/userfrosting?sort=semver
 [Skeleton-Version]: https://github.com/userfrosting/UserFrosting/releases
 [Skeleton-Build-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/userfrosting/Build.yml?branch=5.1&logo=github
 [Skeleton-Build]: https://github.com/userfrosting/userfrosting/actions?query=workflow%3ABuild
@@ -53,7 +53,7 @@ You can also find help on the [community Chat](https://chat.userfrosting.com/hom
 
 <!-- Links - Framework -->
 [Framework]: https://github.com/userfrosting/framework/tree/5.1
-[Framework-Version-img]: https://img.shields.io/github/v/release/userfrosting/framework?include_prereleases
+[Framework-Version-img]: https://img.shields.io/github/v/release/userfrosting/framework
 [Framework-Version]: https://github.com/userfrosting/framework/releases
 [Framework-Build-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/framework/Build.yml?branch=5.1&logo=github
 [Framework-Build]: https://github.com/userfrosting/framework/actions?query=workflow%3ABuild
@@ -66,7 +66,7 @@ You can also find help on the [community Chat](https://chat.userfrosting.com/hom
 
 <!-- Links - Core -->
 [Core]: https://github.com/userfrosting/sprinkle-core/tree/5.1
-[Core-Version-img]: https://img.shields.io/github/v/release/userfrosting/sprinkle-core?include_prereleases
+[Core-Version-img]: https://img.shields.io/github/v/release/userfrosting/sprinkle-core
 [Core-Version]: https://github.com/userfrosting/sprinkle-core/releases
 [Core-Build-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/sprinkle-core/Build.yml?branch=5.1&logo=github
 [Core-Build]: https://github.com/userfrosting/sprinkle-core/actions
@@ -79,7 +79,7 @@ You can also find help on the [community Chat](https://chat.userfrosting.com/hom
 
 <!-- Links - Account -->
 [Account]: https://github.com/userfrosting/sprinkle-account/tree/5.1
-[Account-Version-img]: https://img.shields.io/github/v/release/userfrosting/sprinkle-account?include_prereleases
+[Account-Version-img]: https://img.shields.io/github/v/release/userfrosting/sprinkle-account
 [Account-Version]: https://github.com/userfrosting/sprinkle-account/releases
 [Account-Build-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/sprinkle-account/Build.yml?branch=5.1&logo=github
 [Account-Build]: https://github.com/userfrosting/sprinkle-account/actions/workflows/Build.yml
@@ -92,10 +92,8 @@ You can also find help on the [community Chat](https://chat.userfrosting.com/hom
 
 <!-- Links - Admin -->
 [Admin]: https://github.com/userfrosting/sprinkle-admin/tree/5.1
-[Admin-Version-img]: https://img.shields.io/github/v/release/userfrosting/sprinkle-admin?include_prereleases
+[Admin-Version-img]: https://img.shields.io/github/v/release/userfrosting/sprinkle-admin
 [Admin-Version]: https://github.com/userfrosting/sprinkle-admin/releases
-[Admin-npm]: https://www.npmjs.com/package/@userfrosting/sprinkle-admin
-[Admin-npm-img]: https://img.shields.io/npm/v/%40userfrosting%2Fsprinkle-admin
 [Admin-Build-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/sprinkle-admin/Build.yml?branch=5.1&logo=github
 [Admin-Build]: https://github.com/userfrosting/sprinkle-admin/actions?query=workflow%3ABuild
 [Admin-Coverage-img]: https://codecov.io/gh/userfrosting/sprinkle-admin/branch/5.1/graph/badge.svg
@@ -107,7 +105,7 @@ You can also find help on the [community Chat](https://chat.userfrosting.com/hom
 
 <!-- Links - AdminLTE -->
 [AdminLTE]: https://github.com/userfrosting/theme-adminlte/tree/5.1
-[AdminLTE-Version-img]: https://img.shields.io/github/v/release/userfrosting/theme-adminlte?include_prereleases
+[AdminLTE-Version-img]: https://img.shields.io/github/v/release/userfrosting/theme-adminlte
 [AdminLTE-Version]: https://github.com/userfrosting/theme-adminlte/releases
 [AdminLTE-npm]: https://www.npmjs.com/package/@userfrosting/theme-adminlte
 [AdminLTE-npm-img]: https://img.shields.io/npm/v/%40userfrosting%2Ftheme-adminlte
@@ -119,6 +117,107 @@ You can also find help on the [community Chat](https://chat.userfrosting.com/hom
 [AdminLTE-Style]: https://github.styleci.io/repos/445386142
 [AdminLTE-PHPStan-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/theme-adminlte/PHPStan.yml?branch=5.1&label=PHPStan
 [AdminLTE-PHPStan]: https://github.com/userfrosting/theme-adminlte/actions/workflows/PHPStan.yml
+
+### UserFrosting 6.0 Beta
+#### [UF6 Monorepo][UF6]
+[![][UF6-VER-I]][UF6-VER-L]
+[![][UF6-VIT-I]][UF6-VIT-L]
+[![][UF6-BUI-I]][UF6-BUI-L]
+[![][UF6-COV-I]][UF6-COV-L]
+[![][UF6-STY-I]][UF6-STY-L]
+[![][UF6-STA-I]][UF6-STA-L]
+
+#### [Learn 6][Learn] 
+[![][Learn-BUI-I]][Learn-BUI-L]
+[![][Learn-COV-I]][Learn-COV-L]
+
+#### [Vite-PHP-Twig][Vite-PHP]
+[![][Vite-PHP-VER-I]][Vite-PHP-VER-L]
+[![][Vite-PHP-BUI-I]][Vite-PHP-BUI-L]
+[![][Vite-PHP-COV-I]][Vite-PHP-COV-L]
+[![][Vite-PHP-STY-I]][Vite-PHP-STY-L]
+[![][Vite-PHP-STA-I]][Vite-PHP-STA-L]
+| Package                |         Composer Version          |            NPM Version            |
+|------------------------|:---------------------------------:|:---------------------------------:|
+| [Skeleton][UF6-SK]     | [![][UF6-SK-VER-I]][UF6-SK-VER-L] |                 -                 |
+| [Framework][UF6-FM]    | [![][UF6-FM-VER-I]][UF6-FM-VER-L] |                 -                 |
+| [Core][UF6-CO]         | [![][UF6-CO-VER-I]][UF6-CO-VER-L] | [![][UF6-CO-NPM-I]][UF6-CO-NPM-L] |
+| [Account][UF6-AC]      | [![][UF6-AC-VER-I]][UF6-AC-VER-L] | [![][UF6-AC-NPM-I]][UF6-AC-NPM-L] |
+| [Admin][UF6-AD]        | [![][UF6-AD-VER-I]][UF6-AD-VER-L] | [![][UF6-AD-NPM-I]][UF6-AD-NPM-L] |
+| [Pink Cupcake][UF6-PK] | [![][UF6-PK-VER-I]][UF6-PK-VER-L] | [![][UF6-PK-NPM-I]][UF6-PK-NPM-L] |
+
+<!-- Links - Monorepo -->
+[UF6]: https://github.com/userfrosting/monorepo
+[UF6-VER-I]: https://img.shields.io/github/v/release/userfrosting/monorepo?include_prereleases
+[UF6-VER-L]: https://github.com/userfrosting/monorepo/releases
+[UF6-BUI-I]: https://img.shields.io/github/actions/workflow/status/userfrosting/monorepo/PHPUnit.yml?branch=6.0&logo=github&label=PHPUnit
+[UF6-BUI-L]: https://github.com/userfrosting/monorepo/actions?query=workflow%3ABuild
+[UF6-COV-I]: https://codecov.io/gh/userfrosting/monorepo/branch/6.0/graph/badge.svg
+[UF6-COV-L]: https://app.codecov.io/gh/userfrosting/monorepo/branch/6.0
+[UF6-STY-I]: https://github.styleci.io/repos/900493101/shield?branch=6.0&style=flat
+[UF6-STY-L]: https://github.styleci.io/repos/900493101
+[UF6-STA-I]: https://img.shields.io/github/actions/workflow/status/userfrosting/monorepo/PHPStan.yml?branch=6.0&label=PHPStan
+[UF6-STA-L]: https://github.com/userfrosting/monorepo/actions/workflows/PHPStan.yml
+[UF6-VIT-I]: https://img.shields.io/github/actions/workflow/status/userfrosting/monorepo/Frontend.yml?branch=6.0&logo=vitest&label=Vitest
+[UF6-VIT-L]: https://github.com/userfrosting/monorepo/actions/workflows/Frontend.yml
+
+<!-- Links - Learn 6 -->
+[Learn]: https://github.com/userfrosting/learn/tree/main
+[Learn-BUI-I]: https://img.shields.io/github/actions/workflow/status/userfrosting/learn/Build.yml?branch=main&logo=github
+[Learn-BUI-L]: https://github.com/userfrosting/learn/actions?query=workflow%3ABuild
+[Learn-COV-I]: https://codecov.io/gh/userfrosting/learn/branch/main/graph/badge.svg
+[Learn-COV-L]: https://app.codecov.io/gh/userfrosting/learn/branch/main
+
+<!-- Links - Vite-PHP -->
+[Vite-PHP]: https://github.com/userfrosting/vite-php-twig/tree/main
+[Vite-PHP-VER-I]: https://img.shields.io/github/v/release/userfrosting/vite-php-twig?include_prereleases
+[Vite-PHP-VER-L]: https://github.com/userfrosting/vite-php-twig/releases
+[Vite-PHP-BUI-I]: https://img.shields.io/github/actions/workflow/status/userfrosting/vite-php-twig/Build.yml?branch=main&logo=github
+[Vite-PHP-BUI-L]: https://github.com/userfrosting/vite-php-twig/actions?query=workflow%3ABuild
+[Vite-PHP-COV-I]: https://codecov.io/gh/userfrosting/vite-php-twig/branch/main/graph/badge.svg
+[Vite-PHP-COV-L]: https://app.codecov.io/gh/userfrosting/vite-php-twig/branch/main
+[Vite-PHP-STY-I]: https://github.styleci.io/repos/821945045/shield?branch=main&style=flat
+[Vite-PHP-STY-L]: https://github.styleci.io/repos/821945045
+[Vite-PHP-STA-I]: https://img.shields.io/github/actions/workflow/status/userfrosting/vite-php-twig/PHPStan.yml?branch=main&label=PHPStan
+[Vite-PHP-STA-L]: https://github.com/userfrosting/vite-php-twig/actions/workflows/PHPStan.yml
+
+<!-- Links - Skeleton -->
+[UF6-SK]: https://github.com/userfrosting/UserFrosting/tree/6.0
+[UF6-SK-VER-I]: https://img.shields.io/github/v/release/userfrosting/userfrosting?include_prereleases&sort=semver
+[UF6-SK-VER-L]: https://github.com/userfrosting/UserFrosting/releases
+
+<!-- Links - Framework -->
+[UF6-FM]: https://github.com/userfrosting/framework/tree/6.0
+[UF6-FM-VER-I]: https://img.shields.io/github/v/release/userfrosting/framework?include_prereleases
+[UF6-FM-VER-L]: https://github.com/userfrosting/framework/releases
+
+<!-- Links - Core -->
+[UF6-CO]: https://github.com/userfrosting/sprinkle-core/tree/6.0
+[UF6-CO-VER-I]: https://img.shields.io/github/v/release/userfrosting/sprinkle-core?include_prereleases
+[UF6-CO-VER-L]: https://github.com/userfrosting/sprinkle-core/releases
+[UF6-CO-NPM-I]: https://img.shields.io/npm/v/%40userfrosting%2Fsprinkle-core
+[UF6-CO-NPM-L]: https://www.npmjs.com/package/@userfrosting/sprinkle-core
+
+<!-- Links - Account -->
+[UF6-AC]: https://github.com/userfrosting/sprinkle-account/tree/6.0
+[UF6-AC-VER-I]: https://img.shields.io/github/v/release/userfrosting/sprinkle-account?include_prereleases
+[UF6-AC-VER-L]: https://github.com/userfrosting/sprinkle-account/releases
+[UF6-AC-NPM-I]: https://img.shields.io/npm/v/%40userfrosting%2Fsprinkle-account
+[UF6-AC-NPM-L]: https://www.npmjs.com/package/@userfrosting/sprinkle-account
+
+<!-- Links - Admin -->
+[UF6-AD]: https://github.com/userfrosting/sprinkle-admin/tree/6.0
+[UF6-AD-VER-I]: https://img.shields.io/github/v/release/userfrosting/sprinkle-admin?include_prereleases
+[UF6-AD-VER-L]: https://github.com/userfrosting/sprinkle-admin/releases
+[UF6-AD-NPM-I]: https://img.shields.io/npm/v/%40userfrosting%2Fsprinkle-admin
+[UF6-AD-NPM-L]: https://www.npmjs.com/package/@userfrosting/sprinkle-admin
+
+<!-- Links - PinkCupcake -->
+[UF6-PK]: https://github.com/userfrosting/theme-pink-cupcake/tree/main
+[UF6-PK-VER-I]: https://img.shields.io/github/v/release/userfrosting/theme-pink-cupcake?include_prereleases
+[UF6-PK-VER-L]: https://github.com/userfrosting/theme-pink-cupcake/releases
+[UF6-PK-NPM-I]: https://img.shields.io/npm/v/%40userfrosting%2Ftheme-pink-cupcake
+[UF6-PK-NPM-L]: https://www.npmjs.com/package/@userfrosting/theme-pink-cupcake
 
 ### Recipes, Examples and Tutorials
 
@@ -180,68 +279,6 @@ You can also find help on the [community Chat](https://chat.userfrosting.com/hom
 [JsPackage-Style]: https://github.styleci.io/repos/793848449?branch=5.0
 [JsPackage-PHPStan-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/recipe-js-package/PHPStan.yml?branch=5.0&label=PHPStan
 [JsPackage-PHPStan]: https://github.com/userfrosting/recipe-js-package/actions/workflows/PHPStan.yml
-
-### UserFrosting 6 Work In Progress
-| Branch | Version | Build | Coverage | Style | PHPStan |
-| ------ |:-------:|:-----:|:--------:|:-----:|:-------:|
-| [Vue Demo][Demo] | | [![][Demo-Build-img]][Demo-Build] | [![][Demo-Coverage-img]][Demo-Coverage] | [![][Demo-Style-img]][Demo-Style] | [![][Demo-PHPStan-img]][Demo-PHPStan] |
-| [Pink Cupcake][PinkCupcake] | [![][PinkCupcake-npm-img]][PinkCupcake-npm] | [![][PinkCupcake-Build-img]][PinkCupcake-Build] | [![][PinkCupcake-Coverage-img]][PinkCupcake-Coverage] | [![][PinkCupcake-Style-img]][PinkCupcake-Style] | <!-- [![][PinkCupcake-PHPStan-img]][PinkCupcake-PHPStan] --> |
-| [Pink Cupcake Example][PinkCupcake-Example] | | <!-- [![][PinkCupcake-Example-Build-img]][PinkCupcake-Example-Build] --> | <!-- [![][PinkCupcake-Example-Coverage-img]][PinkCupcake-Example-Coverage] --> | <!-- [![][PinkCupcake-Example-Style-img]][PinkCupcake-Example-Style] --> | <!-- [![][PinkCupcake-Example-PHPStan-img]][PinkCupcake-Example-PHPStan] --> |
-| [Vite-PHP-Twig][Vite-PHP] | [![][Vite-PHP-Version-img]][Vite-PHP-Version] | [![][Vite-PHP-Build-img]][Vite-PHP-Build] | [![][Vite-PHP-Coverage-img]][Vite-PHP-Coverage] | [![][Vite-PHP-Style-img]][Vite-PHP-Style] | [![][Vite-PHP-PHPStan-img]][Vite-PHP-PHPStan] |
-
-<!-- Links - PinkCupcake-Example -->
-[PinkCupcake-Example]: https://github.com/userfrosting/theme-pink-cupcake-example/tree/main
-<!-- [PinkCupcake-Example-Version-img]: https://img.shields.io/github/v/release/userfrosting/theme-pink-cupcake-example?include_prereleases -->
-<!-- [PinkCupcake-Example-Version]: https://github.com/userfrosting/theme-pink-cupcake-example/releases -->
-<!-- [PinkCupcake-Example-Build-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/theme-pink-cupcake-example/Build.yml?branch=main&logo=github -->
-<!-- [PinkCupcake-Example-Build]: https://github.com/userfrosting/theme-pink-cupcake-example/actions?query=workflow%3ABuild -->
-<!-- [PinkCupcake-Example-Coverage-img]: https://codecov.io/gh/userfrosting/theme-pink-cupcake-example/branch/main/graph/badge.svg -->
-<!-- [PinkCupcake-Example-Coverage]: https://app.codecov.io/gh/userfrosting/theme-pink-cupcake-example/branch/main -->
-<!-- [PinkCupcake-Example-Style-img]: https://github.styleci.io/repos/689461212/shield?branch=main&style=flat -->
-<!-- [PinkCupcake-Example-Style]: https://github.styleci.io/repos/689461212 -->
-<!-- [PinkCupcake-Example-PHPStan-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/theme-pink-cupcake-example/PHPStan.yml?branch=main&label=PHPStan -->
-<!-- [PinkCupcake-Example-PHPStan]: https://github.com/userfrosting/theme-pink-cupcake-example/actions/workflows/PHPStan.yml -->
-
-<!-- Links - PinkCupcake -->
-[PinkCupcake]: https://github.com/userfrosting/theme-pink-cupcake/tree/main
-<!-- [PinkCupcake-Version-img]: https://img.shields.io/github/v/release/userfrosting/theme-pink-cupcake?include_prereleases -->
-<!-- [PinkCupcake-Version]: https://github.com/userfrosting/theme-pink-cupcake/releases -->
-[PinkCupcake-npm]: https://www.npmjs.com/package/@userfrosting/theme-pink-cupcake
-[PinkCupcake-npm-img]: https://img.shields.io/npm/v/%40userfrosting%2Ftheme-pink-cupcake
-[PinkCupcake-Build-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/theme-pink-cupcake/Build.yml?branch=main&logo=github
-[PinkCupcake-Build]: https://github.com/userfrosting/theme-pink-cupcake/actions?query=workflow%3ABuild
-[PinkCupcake-Coverage-img]: https://codecov.io/gh/userfrosting/theme-pink-cupcake/branch/main/graph/badge.svg
-[PinkCupcake-Coverage]: https://app.codecov.io/gh/userfrosting/theme-pink-cupcake/branch/main
-[PinkCupcake-Style-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/theme-pink-cupcake/Style.yml?branch=main&logo=github&label=Style
-[PinkCupcake-Style]: https://github.com/userfrosting/theme-pink-cupcake/actions/workflows/Style.yml
-<!-- [PinkCupcake-PHPStan-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/theme-pink-cupcake/PHPStan.yml?branch=main&label=PHPStan -->
-<!-- [PinkCupcake-PHPStan]: https://github.com/userfrosting/theme-pink-cupcake/actions/workflows/PHPStan.yml -->
-
-<!-- Links - Demo -->
-[Demo]: https://github.com/userfrosting/demo-vue/tree/main
-<!-- [Demo-Version-img]: https://img.shields.io/github/v/release/userfrosting/demo-vue?include_prereleases -->
-<!-- [Demo-Version]: https://github.com/userfrosting/demo-vue/releases -->
-[Demo-Build-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/demo-vue/Build.yml?branch=main&logo=github
-[Demo-Build]: https://github.com/userfrosting/demo-vue/actions?query=workflow%3ABuild
-[Demo-Coverage-img]: https://codecov.io/gh/userfrosting/demo-vue/branch/main/graph/badge.svg
-[Demo-Coverage]: https://app.codecov.io/gh/userfrosting/demo-vue/branch/main
-[Demo-Style-img]: https://github.styleci.io/repos/689461212/shield?branch=main&style=flat
-[Demo-Style]: https://github.styleci.io/repos/689461212
-[Demo-PHPStan-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/demo-vue/PHPStan.yml?branch=main&label=PHPStan
-[Demo-PHPStan]: https://github.com/userfrosting/demo-vue/actions/workflows/PHPStan.yml
-
-<!-- Links - Vite-PHP -->
-[Vite-PHP]: https://github.com/userfrosting/vite-php-twig/tree/main
-[Vite-PHP-Version-img]: https://img.shields.io/github/v/release/userfrosting/vite-php-twig?include_prereleases
-[Vite-PHP-Version]: https://github.com/userfrosting/vite-php-twig/releases
-[Vite-PHP-Build-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/vite-php-twig/Build.yml?branch=main&logo=github
-[Vite-PHP-Build]: https://github.com/userfrosting/vite-php-twig/actions?query=workflow%3ABuild
-[Vite-PHP-Coverage-img]: https://codecov.io/gh/userfrosting/vite-php-twig/branch/main/graph/badge.svg
-[Vite-PHP-Coverage]: https://app.codecov.io/gh/userfrosting/vite-php-twig/branch/main
-[Vite-PHP-Style-img]: https://github.styleci.io/repos/821945045/shield?branch=main&style=flat
-[Vite-PHP-Style]: https://github.styleci.io/repos/821945045
-[Vite-PHP-PHPStan-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/vite-php-twig/PHPStan.yml?branch=main&label=PHPStan
-[Vite-PHP-PHPStan]: https://github.com/userfrosting/vite-php-twig/actions/workflows/PHPStan.yml
 
 ### Featured Community Sprinkles
 
