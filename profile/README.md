@@ -213,7 +213,7 @@ You can also find help on the [community Chat](https://chat.userfrosting.com/hom
 [UF6-AD-NPM-L]: https://www.npmjs.com/package/@userfrosting/sprinkle-admin
 
 <!-- Links - PinkCupcake -->
-[UF6-PK]: https://github.com/userfrosting/theme-pink-cupcake/tree/main
+[UF6-PK]: https://github.com/userfrosting/theme-pink-cupcake/tree/6.0
 [UF6-PK-VER-I]: https://img.shields.io/github/v/release/userfrosting/theme-pink-cupcake?include_prereleases
 [UF6-PK-VER-L]: https://github.com/userfrosting/theme-pink-cupcake/releases
 [UF6-PK-NPM-I]: https://img.shields.io/npm/v/%40userfrosting%2Ftheme-pink-cupcake
