@@ -35,7 +35,7 @@ You can also find help on the [community Chat](https://chat.userfrosting.com/hom
 | [Framework] | [![][Framework-Version-img]][Framework-Version] | [![][Framework-Build-img]][Framework-Build] | [![][Framework-Coverage-img]][Framework-Coverage] | [![][Framework-Style-img]][Framework-Style] | [![][Framework-PHPStan-img]][Framework-PHPStan] |
 | [Core] | [![][Core-Version-img]][Core-Version] | [![][Core-Build-img]][Core-Build] | [![][Core-Coverage-img]][Core-Coverage] | [![][Core-Style-img]][Core-Style] | [![][Core-PHPStan-img]][Core-PHPStan] |
 | [Account] | [![][Account-Version-img]][Account-Version] | [![][Account-Build-img]][Account-Build] | [![][Account-Coverage-img]][Account-Coverage] | [![][Account-Style-img]][Account-Style] | [![][Account-PHPStan-img]][Account-PHPStan] |
-| [Admin] | [![][Admin-Version-img]][Admin-Version] | [![][Admin-Build-img]][Admin-Build] | [![][Admin-Coverage-img]][Admin-Coverage] | [![][Admin-Style-img]][Admin-Style] | [![][Admin-PHPStan-img]][Admin-PHPStan] |
+| [Admin] | [![][Admin-Version-img]][Admin-Version] [![][Admin-npm-img]][Admin-npm] | [![][Admin-Build-img]][Admin-Build] | [![][Admin-Coverage-img]][Admin-Coverage] | [![][Admin-Style-img]][Admin-Style] | [![][Admin-PHPStan-img]][Admin-PHPStan] |
 | [AdminLTE] | [![][AdminLTE-Version-img]][AdminLTE-Version] [![][AdminLTE-npm-img]][AdminLTE-npm] | [![][AdminLTE-Build-img]][AdminLTE-Build] | [![][AdminLTE-Coverage-img]][AdminLTE-Coverage] | [![][AdminLTE-Style-img]][AdminLTE-Style] | [![][AdminLTE-PHPStan-img]][AdminLTE-PHPStan] |
 
 <!-- Links - Skeleton -->
@@ -94,6 +94,8 @@ You can also find help on the [community Chat](https://chat.userfrosting.com/hom
 [Admin]: https://github.com/userfrosting/sprinkle-admin/tree/5.1
 [Admin-Version-img]: https://img.shields.io/github/v/release/userfrosting/sprinkle-admin
 [Admin-Version]: https://github.com/userfrosting/sprinkle-admin/releases
+[Admin-npm]: https://www.npmjs.com/package/@userfrosting/sprinkle-admin
+[Admin-npm-img]: https://img.shields.io/npm/v/%40userfrosting%2Fsprinkle-admin
 [Admin-Build-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/sprinkle-admin/Build.yml?branch=5.1&logo=github
 [Admin-Build]: https://github.com/userfrosting/sprinkle-admin/actions?query=workflow%3ABuild
 [Admin-Coverage-img]: https://codecov.io/gh/userfrosting/sprinkle-admin/branch/5.1/graph/badge.svg
