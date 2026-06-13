@@ -27,100 +27,7 @@ UserFrosting provides extensive and thorough [documentation](https://learn.userf
 You can also find help on the [community Chat](https://chat.userfrosting.com/home) where you can get answers fast and learn to be a great PHP developer.
 
 ## Repositories
-### UserFrosting 5.1
-
-| Branch | Version | Build | Coverage | Style | PHPStan |
-| ------ |:-------:|:-----:|:--------:|:-----:|:-------:|
-| [Skeleton] | [![][Skeleton-Version-img]][Skeleton-Version] | [![][Skeleton-Build-img]][Skeleton-Build] | [![][Skeleton-Coverage-img]][Skeleton-Coverage] | [![][Skeleton-Style-img]][Skeleton-Style] | [![][Skeleton-PHPStan-img]][Skeleton-PHPStan] |
-| [Framework] | [![][Framework-Version-img]][Framework-Version] | [![][Framework-Build-img]][Framework-Build] | [![][Framework-Coverage-img]][Framework-Coverage] | [![][Framework-Style-img]][Framework-Style] | [![][Framework-PHPStan-img]][Framework-PHPStan] |
-| [Core] | [![][Core-Version-img]][Core-Version] | [![][Core-Build-img]][Core-Build] | [![][Core-Coverage-img]][Core-Coverage] | [![][Core-Style-img]][Core-Style] | [![][Core-PHPStan-img]][Core-PHPStan] |
-| [Account] | [![][Account-Version-img]][Account-Version] | [![][Account-Build-img]][Account-Build] | [![][Account-Coverage-img]][Account-Coverage] | [![][Account-Style-img]][Account-Style] | [![][Account-PHPStan-img]][Account-PHPStan] |
-| [Admin] | [![][Admin-Version-img]][Admin-Version] [![][Admin-npm-img]][Admin-npm] | [![][Admin-Build-img]][Admin-Build] | [![][Admin-Coverage-img]][Admin-Coverage] | [![][Admin-Style-img]][Admin-Style] | [![][Admin-PHPStan-img]][Admin-PHPStan] |
-| [AdminLTE] | [![][AdminLTE-Version-img]][AdminLTE-Version] [![][AdminLTE-npm-img]][AdminLTE-npm] | [![][AdminLTE-Build-img]][AdminLTE-Build] | [![][AdminLTE-Coverage-img]][AdminLTE-Coverage] | [![][AdminLTE-Style-img]][AdminLTE-Style] | [![][AdminLTE-PHPStan-img]][AdminLTE-PHPStan] |
-
-<!-- Links - Skeleton -->
-[Skeleton]: https://github.com/userfrosting/UserFrosting/tree/5.1
-[Skeleton-Version-img]: https://img.shields.io/github/v/release/userfrosting/userfrosting?sort=semver
-[Skeleton-Version]: https://github.com/userfrosting/UserFrosting/releases
-[Skeleton-Build-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/userfrosting/Build.yml?branch=5.1&logo=github
-[Skeleton-Build]: https://github.com/userfrosting/userfrosting/actions?query=workflow%3ABuild
-[Skeleton-Coverage-img]: https://codecov.io/gh/userfrosting/UserFrosting/branch/5.1/graph/badge.svg
-[Skeleton-Coverage]: https://app.codecov.io/gh/userfrosting/UserFrosting/branch/5.1
-[Skeleton-Style-img]: https://github.styleci.io/repos/18148206/shield?branch=5.1&style=flat
-[Skeleton-Style]: https://github.styleci.io/repos/18148206
-[Skeleton-PHPStan-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/userfrosting/PHPStan.yml?branch=5.1&label=PHPStan
-[Skeleton-PHPStan]: https://github.com/userfrosting/userfrosting/actions/workflows/PHPStan.yml
-
-<!-- Links - Framework -->
-[Framework]: https://github.com/userfrosting/framework/tree/5.1
-[Framework-Version-img]: https://img.shields.io/github/v/release/userfrosting/framework
-[Framework-Version]: https://github.com/userfrosting/framework/releases
-[Framework-Build-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/framework/Build.yml?branch=5.1&logo=github
-[Framework-Build]: https://github.com/userfrosting/framework/actions?query=workflow%3ABuild
-[Framework-Coverage-img]: https://codecov.io/gh/userfrosting/framework/branch/5.1/graph/badge.svg
-[Framework-Coverage]: https://app.codecov.io/gh/userfrosting/framework/branch/5.1
-[Framework-Style-img]: https://github.styleci.io/repos/360994768/shield?branch=5.1&style=flat
-[Framework-Style]: https://github.styleci.io/repos/360994768
-[Framework-PHPStan-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/framework/PHPStan.yml?branch=5.1&label=PHPStan
-[Framework-PHPStan]: https://github.com/userfrosting/framework/actions/workflows/PHPStan.yml
-
-<!-- Links - Core -->
-[Core]: https://github.com/userfrosting/sprinkle-core/tree/5.1
-[Core-Version-img]: https://img.shields.io/github/v/release/userfrosting/sprinkle-core
-[Core-Version]: https://github.com/userfrosting/sprinkle-core/releases
-[Core-Build-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/sprinkle-core/Build.yml?branch=5.1&logo=github
-[Core-Build]: https://github.com/userfrosting/sprinkle-core/actions
-[Core-Coverage-img]: https://codecov.io/gh/userfrosting/sprinkle-core/branch/5.1/graph/badge.svg
-[Core-Coverage]: https://app.codecov.io/gh/userfrosting/sprinkle-core/branch/5.1
-[Core-Style-img]: https://github.styleci.io/repos/372359383/shield?branch=5.1&style=flat
-[Core-Style]: https://github.styleci.io/repos/372359383
-[Core-PHPStan-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/sprinkle-core/PHPStan.yml?branch=5.1&label=PHPStan
-[Core-PHPStan]: https://github.com/userfrosting/sprinkle-core/actions/workflows/PHPStan.yml
-
-<!-- Links - Account -->
-[Account]: https://github.com/userfrosting/sprinkle-account/tree/5.1
-[Account-Version-img]: https://img.shields.io/github/v/release/userfrosting/sprinkle-account
-[Account-Version]: https://github.com/userfrosting/sprinkle-account/releases
-[Account-Build-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/sprinkle-account/Build.yml?branch=5.1&logo=github
-[Account-Build]: https://github.com/userfrosting/sprinkle-account/actions/workflows/Build.yml
-[Account-Coverage-img]: https://codecov.io/gh/userfrosting/sprinkle-account/branch/5.1/graph/badge.svg
-[Account-Coverage]: https://app.codecov.io/gh/userfrosting/sprinkle-account/branch/5.1
-[Account-Style-img]: https://github.styleci.io/repos/448371817/shield?branch=5.1&style=flat
-[Account-Style]: https://github.styleci.io/repos/448371817
-[Account-PHPStan-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/sprinkle-account/PHPStan.yml?branch=5.1&label=PHPStan
-[Account-PHPStan]: https://github.com/userfrosting/sprinkle-account/actions/workflows/PHPStan.yml
-
-<!-- Links - Admin -->
-[Admin]: https://github.com/userfrosting/sprinkle-admin/tree/5.1
-[Admin-Version-img]: https://img.shields.io/github/v/release/userfrosting/sprinkle-admin
-[Admin-Version]: https://github.com/userfrosting/sprinkle-admin/releases
-[Admin-npm]: https://www.npmjs.com/package/@userfrosting/sprinkle-admin
-[Admin-npm-img]: https://img.shields.io/npm/v/%40userfrosting%2Fsprinkle-admin
-[Admin-Build-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/sprinkle-admin/Build.yml?branch=5.1&logo=github
-[Admin-Build]: https://github.com/userfrosting/sprinkle-admin/actions?query=workflow%3ABuild
-[Admin-Coverage-img]: https://codecov.io/gh/userfrosting/sprinkle-admin/branch/5.1/graph/badge.svg
-[Admin-Coverage]: https://app.codecov.io/gh/userfrosting/sprinkle-admin/branch/5.1
-[Admin-Style-img]: https://github.styleci.io/repos/487673317/shield?branch=5.1&style=flat
-[Admin-Style]: https://github.styleci.io/repos/487673317
-[Admin-PHPStan-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/sprinkle-admin/PHPStan.yml?branch=5.1&label=PHPStan
-[Admin-PHPStan]: https://github.com/userfrosting/sprinkle-admin/actions/workflows/PHPStan.yml
-
-<!-- Links - AdminLTE -->
-[AdminLTE]: https://github.com/userfrosting/theme-adminlte/tree/5.1
-[AdminLTE-Version-img]: https://img.shields.io/github/v/release/userfrosting/theme-adminlte
-[AdminLTE-Version]: https://github.com/userfrosting/theme-adminlte/releases
-[AdminLTE-npm]: https://www.npmjs.com/package/@userfrosting/theme-adminlte
-[AdminLTE-npm-img]: https://img.shields.io/npm/v/%40userfrosting%2Ftheme-adminlte
-[AdminLTE-Build-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/theme-adminlte/Build.yml?branch=5.1&logo=github
-[AdminLTE-Build]: https://github.com/userfrosting/theme-adminlte/actions?query=workflow%3ABuild
-[AdminLTE-Coverage-img]: https://codecov.io/gh/userfrosting/theme-adminlte/branch/5.1/graph/badge.svg
-[AdminLTE-Coverage]: https://app.codecov.io/gh/userfrosting/theme-adminlte/branch/5.1
-[AdminLTE-Style-img]: https://github.styleci.io/repos/445386142/shield?branch=5.1&style=flat
-[AdminLTE-Style]: https://github.styleci.io/repos/445386142
-[AdminLTE-PHPStan-img]: https://img.shields.io/github/actions/workflow/status/userfrosting/theme-adminlte/PHPStan.yml?branch=5.1&label=PHPStan
-[AdminLTE-PHPStan]: https://github.com/userfrosting/theme-adminlte/actions/workflows/PHPStan.yml
-
-### UserFrosting 6.0 Beta
+### UserFrosting 6.0
 #### [UF6 Monorepo][UF6]
 [![][UF6-VER-I]][UF6-VER-L]
 [![][UF6-VIT-I]][UF6-VIT-L]
@@ -185,7 +92,7 @@ You can also find help on the [community Chat](https://chat.userfrosting.com/hom
 
 <!-- Links - Skeleton -->
 [UF6-SK]: https://github.com/userfrosting/UserFrosting/tree/6.0
-[UF6-SK-VER-I]: https://img.shields.io/github/v/release/userfrosting/userfrosting?include_prereleases&sort=semver
+[UF6-SK-VER-I]: https://img.shields.io/github/v/release/userfrosting/userfrosting?include_prereleases
 [UF6-SK-VER-L]: https://github.com/userfrosting/UserFrosting/releases
 
 <!-- Links - Framework -->
